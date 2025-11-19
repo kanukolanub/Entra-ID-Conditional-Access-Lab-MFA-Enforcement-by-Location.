@@ -1,4 +1,4 @@
-# Entra-ID-Conditional-Access-Lab-MFA-Enforcement-by-Location.
+# Entra-ID-Conditional-Access-Lab-MFA-Enforcement-by-Location
 
 
 ## 💡 Project Goal
