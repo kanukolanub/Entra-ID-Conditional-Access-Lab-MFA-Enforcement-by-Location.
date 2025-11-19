@@ -1,0 +1,1 @@
+# Entra-ID-Conditional-Access-Lab-MFA-Enforcement-by-Location.
